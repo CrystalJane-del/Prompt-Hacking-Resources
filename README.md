@@ -12,5 +12,6 @@
 - **[COURSES](https://github.com/davidwillisowen/Prompt-Hacking-Resources/blob/main/COURSES.md)** - Structured learning paths covering AI Security content 
 - **[EVENTS](https://github.com/davidwillisowen/Prompt-Hacking-Resources/blob/main/EVENTS.md)** - Test your skills in paid competitions
 - **[JAILBREAKS](https://github.com/davidwillisowen/Prompt-Hacking-Resources/blob/main/JAILBREAKS.md)** - Look at other people's techniques for Hacking LLMs
+- **[YOUTUBE](https://github.com/CrystalJane-del/Prompt-Hacking-Resources/blob/main/YOUTUBE.mkd)** - Videos and walkthroughs focused on AI Security
 
 I hope you find this useful. Any suggestions, please let me know.
